@@ -1,0 +1,4 @@
+*.yml
+glide*
+vendor/*
+Procfile
